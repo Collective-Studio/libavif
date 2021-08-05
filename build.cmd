@@ -1,4 +1,4 @@
-git clone --depth 1 https://github.com/AOMediaCodec/libavif.git
+git clone --branch v0.9.2 --depth 1 https://github.com/AOMediaCodec/libavif.git
 
 # cmake and ninja must be in your PATH.
 cd libavif/ext/
